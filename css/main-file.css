@@ -161,7 +161,7 @@ section .container .intro{
   font-size: x-large;
     text-align: center;
     color: var(--main-color);
-  flex:
+  
 }
 section .container .coverImg{
   margin: auto;
@@ -312,7 +312,7 @@ section .container .coverImg img{
   cursor: pointer;
   height: 30px;
   margin: 20px 35px 20px 30px;
-  font-size: larger :
+  font-size: larger ;
 }
 
 
