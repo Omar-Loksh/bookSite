@@ -164,7 +164,7 @@ section .container .intro{
   flex:
 }
 section .container .coverImg{
-
+  margin: auto;
   flex: 1;
 }
 section .container .coverImg img{
