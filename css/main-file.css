@@ -150,6 +150,26 @@ header .container .logo img {
 }
 
 /* end dark mode */
+/* start main page */
+section .container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 25px;
+}
+section .container .intro{
+  margin-bottom: 30px;
+  font-size: x-large;
+    text-align: center;
+    color: var(--main-color);
+}
+section .container .coverImg{
+
+  flex: 1;
+}
+section .container .coverImg img{
+  max-width: 100%;
+}
+/* end main page */
 
 .quotes .container {
   display: grid;
