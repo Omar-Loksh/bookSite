@@ -157,7 +157,7 @@ section .container {
   padding-top: 25px;
 }
 section .container .intro{
-  margin-bottom: 30px;
+  margin-bottom: 25px;
   font-size: x-large;
     text-align: center;
     color: var(--main-color);
