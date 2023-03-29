@@ -109,9 +109,6 @@ header .container .nav-bar li {
   -o-transition: var(--main-transition);
 }
 
-header .container .nav-bar li div {
-  font-size: large;
-}
 header .container .logo {
   flex: 1;
   height: 72px;
@@ -317,3 +314,15 @@ section .container .coverImg img{
 
 
 /* end reporter joureny */
+
+/* start scripts */
+.script{
+  padding: 14px;
+  line-height: 1.6;
+  font-size: larger;
+}
+.script h2{
+  color: var(--main-color-alt);
+}
+
+/* end scripts */
